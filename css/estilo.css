@@ -1,9 +1,7 @@
 body{
-    color: deeppink;
+    color: blue;
     text-align: center;
-<<<<<<< HEAD
     font-family: courier;
-=======
     font-family: "Arial";
     font-size: 0.5cm;
     margin: 0;
@@ -32,5 +30,4 @@ body{
     font-weight: bold;
 
     
->>>>>>> cabecera
 }
