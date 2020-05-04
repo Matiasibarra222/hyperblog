@@ -1,3 +1,7 @@
 Historia de matias para el curso de git 
 
+<<<<<<< HEAD
 este parrafo esta en la rama master
+=======
+aqui veremos una nueva forma de ver las ramas
+>>>>>>> primera_rama
